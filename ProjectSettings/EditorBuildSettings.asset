@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Sandbox 0.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Sandbox 1.unity
+    guid: 33d7b6be18f7e284ea91eb34711efab2
+  - enabled: 1
+    path: Assets/Scenes/Win.unity
+    guid: 2f0ad406d5552f5419f99fd4cc77fcb5
+  m_configObjects: {}
